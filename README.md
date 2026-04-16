@@ -1,1 +1,10 @@
 # Least-Frequent-Integer
+
+ code task in my notes 
+ 1. Least Frequent Integer
+
+Write a C program that takes n number of positive integers. Find the integer that appears the least number of times among the said integers. If there are multiple such integers, select the smallest one.
+
+ ample Date:
+(1,2,3) -> 1
+(10, 20, 4, 5, 11) -> 4
